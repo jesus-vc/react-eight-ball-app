@@ -1,0 +1,18 @@
+.EightBall-circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; 
+    text-align: center;    /* Center the text horizontally */
+    line-height: 300px;    /* Center the text vertically (adjust based on circle size) */
+    color: white;        
+    font-weight: bold;
+    font-size: x-large;
+    
+  }
+
+.EightBall-button {
+  color: black;        
+  font-weight: bold;
+  font-size: large;
+
+}

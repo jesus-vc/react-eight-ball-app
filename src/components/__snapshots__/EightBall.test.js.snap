@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="EightBall-circle"
+    style="background-color: black;"
+  >
+    <p
+      class="EightBall-msg"
+    >
+      Welcome! Think of a Question!
+    </p>
+  </div>
+  <button
+    class="EightBall-button"
+  >
+    Reset
+  </button>
+  <p
+    class="EightBall-counters"
+  >
+    Green Count: 0
+  </p>
+  <p
+    class="EightBall-counters"
+  >
+    Goldenrod Count: 0
+  </p>
+  <p
+    class="EightBall-counters"
+  >
+    Red Count: 0
+  </p>
+</DocumentFragment>
+`;
